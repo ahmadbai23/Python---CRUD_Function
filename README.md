@@ -16,4 +16,4 @@ In general, the features contained in this application are:
 4. Updating Car Data
 
 The following is an example screenshot of the main menu that will be displayed : <br />
-![Alt text](https://github.com/ahmadbai23/PythonProject/blob/main/main_menu.png)
+![Alt text](https://github.com/ahmadbai23/PythonProject/blob/main/image/main_menu.png)
